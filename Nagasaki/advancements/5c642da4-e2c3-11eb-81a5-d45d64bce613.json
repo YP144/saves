@@ -4822,12 +4822,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2024-08-05 23:47:38 +0700"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_magenta_bed": {
     "criteria": {
       "has_needed_dye": "2024-08-05 20:11:55 +0700"
@@ -4852,5 +4846,35 @@
     },
     "done": true
   },
-  "DataVersion": 3700
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2024-08-05 23:47:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-05-04 17:07:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-05-04 17:07:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
+    "criteria": {
+      "has_prismarine_brick": "2025-05-04 17:07:34 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_brick_slab": {
+    "criteria": {
+      "has_prismarine_bricks": "2025-05-04 17:07:34 +0700"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
 }
